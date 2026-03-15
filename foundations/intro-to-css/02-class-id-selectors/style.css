@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+p{
+    background-color : #ed72db;
+    font-family:'Verdana','DejaVu Sans', 'sans-serif'
+}
+
+#number2{
+    color:#0e19ed; 
+    font-size: 36px;
+}
